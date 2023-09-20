@@ -1,0 +1,5 @@
+Para fazer esse projeto eu tentei utilizar POO da maneira que aprendi com javascript. No HTML, a lista de frutas foi feita com um select e a lista de escolhidos foi feita com divs a partir do javascript.
+Através de loops que os elementos são exibidos na tela.
+
+// db pass Bacatepost!7
+// acc pass postBacate!7
